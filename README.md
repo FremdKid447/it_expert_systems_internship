@@ -1,1 +1,1 @@
-# it_expert_systems_internship
+Over the summer of 2020, I did an internship at IT Expert Systems, Inc. I helped create a program that would generate certificates for the students who took courses at their company. Included is a copy of a Python file I developed that interacted with AWS S3 to generate certificates. 
